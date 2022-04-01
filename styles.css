@@ -70,36 +70,3 @@ form .social-midia-container .icon-container{
 
 
 
-footer {
-  background: red;  
-}
-
-.footer-container {
-    display:flex;
-    
-}
-
-.footer-container h5{
-    padding: 0px 0px;
-}
-
-.footer-container .ff1{
-    text-align: left;
-    width: 30%;
-    padding: 0 0 0px 10px;
-    background: green;
-}
-
-
-.footer-container .ff2{
-    text-align: cnter;
-    width: 30%;
-
-}
-
-
-.footer-container .ff3{
-    text-align: ight;
-    width: 30%;
-
-}
